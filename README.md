@@ -1,4 +1,4 @@
-# HTML_CSS_LandingPage_WordpressWebinar
+# WordpressWebinar_LandingPage_HTML_CSS
 
-Project: Landing Page of Wordpress Webinar
-Used technologies: HTML, CSS
+- Project: Landing Page of Wordpress Webinar
+- Used technologies: ***HTML, CSS***
